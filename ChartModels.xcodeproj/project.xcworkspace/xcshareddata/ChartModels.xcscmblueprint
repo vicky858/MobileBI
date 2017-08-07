@@ -1,0 +1,34 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "72e540c7-0a78-5a40-a3c5-635a8f596697++5884+++4D88759" : {
+
+    },
+    "72e540c7-0a78-5a40-a3c5-635a8f596697++5884+++A6D6F25" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "72e540c7-0a78-5a40-a3c5-635a8f596697++5884+++4D88759" : 0,
+    "72e540c7-0a78-5a40-a3c5-635a8f596697++5884+++A6D6F25" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "70CF4BFE-68BA-49E7-9186-A989717C6ACB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "72e540c7-0a78-5a40-a3c5-635a8f596697++5884+++4D88759" : "..\/Desktop\/SEGOP",
+    "72e540c7-0a78-5a40-a3c5-635a8f596697++5884+++A6D6F25" : "..\/Desktop\/SEGOP"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChartModels",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChartModels.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.5.150:3690\/svn\/ipadhome",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72e540c7-0a78-5a40-a3c5-635a8f596697++5884+++4D88759"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.5.150:3690\/svn\/ipadhome",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72e540c7-0a78-5a40-a3c5-635a8f596697++5884+++A6D6F25"
+    }
+  ]
+}
